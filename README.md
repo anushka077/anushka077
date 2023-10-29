@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github-header-image](https://github.com/anushka077/anushka077/assets/103564913/12a2e0cc-597e-4ae1-bdda-dba321e5037d)
 <h1 align="center">Hi 👋, I'm ANUSHKA SINGH</h1>
-<h3 align="center">Web developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka077&label=Profile%20views&color=0e75b6&style=flat" alt="anushka077" /> </p>
 
